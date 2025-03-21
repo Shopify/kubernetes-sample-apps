@@ -23,7 +23,7 @@ flask==2.2.2
     #   locust
 flask-basicauth==0.2.0
     # via locust
-flask-cors==3.0.10
+flask-cors==4.0.2
     # via locust
 gevent==21.12.0
     # via
@@ -58,9 +58,7 @@ requests==2.28.1
 roundrobin==0.0.4
     # via locust
 six==1.16.0
-    # via
-    #   flask-cors
-    #   geventhttpclient
+    # via geventhttpclient
 typing-extensions==4.3.0
     # via locust
 urllib3==1.26.12

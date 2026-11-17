@@ -1,3 +1,5 @@
+> **This repository is no longer maintained.** It has been archived by Shopify and receives no updates or security fixes.
+
 # DigitalOcean Kubernetes Sample Apps
 
 This repository contains a collection of Kubernetes applications that can be used in various projects. Each sample application has a dedicated folder to keep all resources, and main documentation.
